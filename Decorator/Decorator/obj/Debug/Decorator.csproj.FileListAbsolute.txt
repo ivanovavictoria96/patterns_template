@@ -1,0 +1,5 @@
+E:\Decorator\Decorator\bin\Debug\Decorator.exe
+E:\Decorator\Decorator\bin\Debug\Decorator.pdb
+E:\Decorator\Decorator\obj\Debug\ResolveAssemblyReference.cache
+E:\Decorator\Decorator\obj\Debug\Decorator.exe
+E:\Decorator\Decorator\obj\Debug\Decorator.pdb
